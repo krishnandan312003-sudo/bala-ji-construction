@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  background: #1f3c88;
+  color: white;
+  padding: 25px;
+}
+
+.project {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.project img {
+  width: 300px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+input, textarea {
+  width: 80%;
+  padding: 10px;
+  font-size: 14px;
+}
+
+button {
+  padding: 10px 25px;
+  background: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+footer {
+  background: #333;
+  color: white;
+  padding: 10px;
+}
